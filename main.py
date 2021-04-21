@@ -4,3 +4,5 @@ def calc_ones_in_bin_repr(n):
         n = n&(n-1)
         res += 1
     return res
+
+print()
